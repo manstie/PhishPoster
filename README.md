@@ -1,2 +1,2 @@
 # PhishPoster
-sends post requests to provided urls with random 'user' data specific to the phishing sites
+sends post requests to listed urls with random 'user' data specific to the phishing sites
