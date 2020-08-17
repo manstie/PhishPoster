@@ -1,5 +1,5 @@
 # PhishPoster
-sends post requests to listed urls with random 'user' data specific to the phishing sites
+manually send post requests to listed urls with random 'user' data specific to the phishing sites
 
 # Dependencies
 made and tested with python 3.75
